@@ -7,3 +7,11 @@
 ** Plan
 1. Commit the patent about combustion steady estimation.
 2. Check combustion steady monitoring function.
+
+*2021-3-19
+**Done
+1.阅读文献[基于深度特征聚类和 RNN 的电网故障诊断] [基于互信息变量选择与LSTM的电站锅炉NOx排放动态预测]
+**Quesions
+1.理解文章思路，学习论文学写方法
+**Plan
+1.对于第一篇文献尝试搭建网络
